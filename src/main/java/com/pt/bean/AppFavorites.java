@@ -1,4 +1,4 @@
-package com.atguigu.bean;
+package com.pt.bean;
 /**
  * 收藏
  */

@@ -1,4 +1,4 @@
-package com.atguigu.appclient;
+package com.pt.appclient;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Random;
@@ -6,7 +6,7 @@ import java.util.Random;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.atguigu.bean.*;
+import com.pt.bean.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
